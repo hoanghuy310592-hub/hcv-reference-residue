@@ -1,0 +1,13 @@
+segment,length_nt,class,order,status
+5'UTR,341,UTR,1,UNVERIFIED_verify_against_H77_AF009606
+Core,573,structural,2,UNVERIFIED_verify_against_H77_AF009606
+E1,576,structural,3,UNVERIFIED_verify_against_H77_AF009606
+E2,1089,structural,4,UNVERIFIED_verify_against_H77_AF009606
+p7,189,other,5,UNVERIFIED_verify_against_H77_AF009606
+NS2,651,other,6,UNVERIFIED_verify_against_H77_AF009606
+NS3,1893,target_NS3,7,UNVERIFIED_verify_against_H77_AF009606
+NS4A,162,other,8,UNVERIFIED_verify_against_H77_AF009606
+NS4B,783,other,9,UNVERIFIED_verify_against_H77_AF009606
+NS5A,1344,target_NS5A,10,UNVERIFIED_verify_against_H77_AF009606
+NS5B,1776,target_NS5B,11,UNVERIFIED_verify_against_H77_AF009606
+3'UTR,225,UTR,12,UNVERIFIED_verify_against_H77_AF009606

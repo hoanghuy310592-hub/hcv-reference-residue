@@ -1,0 +1,9 @@
+scenario,preferred,fallback,testing,flag
+"First failure, no cirrhosis","SOF/VEL/VOX, 12 weeks","SOF/VEL + RBV, extended",no,default
+"First failure, compensated cirrhosis, GT1/2/4-6","SOF/VEL/VOX, 12 weeks","SOF/VEL + RBV, 24 weeks",yes,testing
+"Compensated cirrhosis, genotype 3","SOF/VEL/VOX, 12 weeks +/- RBV","SOF/VEL + RBV, 24 weeks",yes,testing
+Two or more previous DAA failures,"GLE/PIB + SOF +/- RBV, 12-16 weeks","SOF/VEL + RBV, 24 weeks",yes,testing
+Failure of SOF/VEL/VOX,"GLE/PIB + SOF + RBV, extended",Extended SOF-based therapy + RBV,yes,testing
+Decompensated cirrhosis,"SOF/VEL + RBV, 24 weeks",Same; no alternative exists,if GT3,constrained
+Unusual or unresolved subtype,Pibrentasvir-containing therapy,GLE/PIB; otherwise SOF/VEL + RBV,"subtype, not RAS",testing
+"Reinfection, not treatment failure",First-line pangenotypic regimen,First-line pangenotypic regimen,no,not_failure

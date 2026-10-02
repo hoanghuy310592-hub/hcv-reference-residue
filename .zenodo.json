@@ -1,0 +1,15 @@
+{
+  "title": "HCV reference-residue analysis: data and code",
+  "description": "Data and code reproducing every number and data panel in 'Hepatitis C virus resistance a decade after direct-acting antivirals: when the resistance residue is the wild type'. Reference amino acids at fourteen resistance-associated NS5A and NS5B positions across all 93 confirmed HCV genotype and subtype reference genomes, scored against EASL 2020 Table 7.",
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "keywords": ["hepatitis C virus", "resistance-associated substitution", "NS5A", "NS5B", "reference genome", "subtype", "direct-acting antiviral"],
+  "creators": [
+    {"name": "Le, Duong Hoang Huy", "affiliation": "Center of Excellence in Clinical Virology, Chulalongkorn University"},
+    {"name": "Puenpa, Jiratchaya", "affiliation": "Center of Excellence in Clinical Virology, Chulalongkorn University"},
+    {"name": "Nilyanimit, Pornjarim", "affiliation": "Center of Excellence in Clinical Virology, Chulalongkorn University"},
+    {"name": "Honsawek, Sittisak", "affiliation": "Faculty of Medicine, Chulalongkorn University"},
+    {"name": "Poovorawan, Yong", "affiliation": "Center of Excellence in Clinical Virology, Chulalongkorn University"}
+  ]
+}

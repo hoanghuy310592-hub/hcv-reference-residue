@@ -1,0 +1,11 @@
+subtype,distribution,polymorphism,evidence,phenotypic_data_published
+1l,Cameroon and central Africa,"Q30R, often with L31M",ledipasvir EC50 raised 18-fold,1
+"1e, 1g",Sub-Saharan Africa,natural NS5A RAS,SOF/VEL failure reported in 1e,0
+3b,China and Southeast Asia,A30K + L31M; 94% of 3b in China,only pibrentasvir retained activity,1
+3g,India,A30K + L31M,as for 3b,1
+4r,Rwanda and central Africa,"L28M/V, L30A, L31M, Y93H",raised ledipasvir EC50; failures reported,1
+4b,Africa,"reported, variable",flagged as carrying resistance risk,0
+"6u, 6v",Southeast Asia,NS5A domain I residues,"DCV and LDV ineffective, EC50 239-321 nM",1
+"6b, 6f, 6r",East and Southeast Asia,L28A/L28T + R30S; L28T + L31I,6a replicon: resistant to all four NS5A drugs,0
+"6c, 6n",Mainland Southeast Asia,not systematically characterised,no phenotypic data located,0
+"GT7, GT8",India; central Africa,not characterised,never assessed in a clinical trial,0

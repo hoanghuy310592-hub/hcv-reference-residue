@@ -1,0 +1,129 @@
+country,prevalence_pct,measure,year,source_tag
+Andorra,0.40,viraemic,2024,WHO_GHR2026
+Angola,0.45,viraemic,2024,WHO_GHR2026
+Armenia,1.83,viraemic,2024,WHO_GHR2026
+Australia,0.26,viraemic,2023,WHO_GHR2026
+Austria,0.33,viraemic,2019,Thomadakis2023
+Azerbaijan,0.11,viraemic,2024,WHO_GHR2026
+Bangladesh,0.61,viraemic,2024,WHO_GHR2026
+Belarus,0.94,viraemic,2024,WHO_GHR2026
+Belgium,0.18,viraemic,2019,Thomadakis2023
+Benin,0.98,viraemic,2024,WHO_GHR2026
+Bhutan,0.23,viraemic,2024,WHO_GHR2026
+Botswana,1.41,viraemic,2024,WHO_GHR2026
+Brazil,0.26,viraemic,2024,WHO_GHR2026
+Brunei,0.19,viraemic,2024,WHO_GHR2026
+Bulgaria,1.11,viraemic,2019,Thomadakis2023
+Burkina Faso,1.20,viraemic,2024,WHO_GHR2026
+Burundi,3.19,viraemic,2024,WHO_GHR2026
+Cambodia,1.04,viraemic,2024,WHO_GHR2026
+Cameroon,0.51,viraemic,2024,WHO_GHR2026
+Canada,0.56,viraemic,2021,WHO_GHR2026
+Cape Verde,0.76,viraemic,2024,WHO_GHR2026
+Chad,0.27,viraemic,2024,WHO_GHR2026
+China,0.91,anti-HCV,2015,ChinaMA2019
+Colombia,0.57,viraemic,2024,WHO_GHR2026
+Comoros,0.63,viraemic,2024,WHO_GHR2026
+Croatia,0.74,viraemic,2019,Thomadakis2023
+Cyprus,0.19,viraemic,2019,Thomadakis2023
+Czech Republic,0.78,viraemic,2019,Thomadakis2023
+Democratic Republic of the Congo,0.41,viraemic,2024,WHO_GHR2026
+Denmark,0.27,viraemic,2019,Thomadakis2023
+Djibouti,0.63,viraemic,2024,WHO_GHR2026
+Dominican Republic,0.53,viraemic,2024,WHO_GHR2026
+Ecuador,0.12,viraemic,2024,WHO_GHR2026
+Egypt,0.27,viraemic,2022,WHO_GHR2026
+El Salvador,0.21,viraemic,2024,WHO_GHR2026
+Equatorial Guinea,0.45,viraemic,2024,WHO_GHR2026
+Estonia,1.71,viraemic,2019,Thomadakis2023
+Ethiopia,0.53,viraemic,2024,WHO_GHR2026
+Finland,0.59,viraemic,2019,Thomadakis2023
+France,0.29,viraemic,2019,Thomadakis2023
+Gabon,4.44,viraemic,2024,WHO_GHR2026
+Gambia,0.74,viraemic,2024,WHO_GHR2026
+Georgia,1.31,viraemic,2021,WHO_GHR2026
+Germany,0.30,viraemic,2019,Thomadakis2023
+Ghana,1.35,viraemic,2024,WHO_GHR2026
+Greece,0.55,viraemic,2019,Thomadakis2023
+Guatemala,0.49,viraemic,2024,WHO_GHR2026
+Guinea,0.76,viraemic,2024,WHO_GHR2026
+Guinea-Bissau,0.76,viraemic,2024,WHO_GHR2026
+Haiti,0.58,viraemic,2024,WHO_GHR2026
+Honduras,0.49,viraemic,2024,WHO_GHR2026
+Hungary,0.23,viraemic,2019,Thomadakis2023
+Iceland,0.10,viraemic,2019,Thomadakis2023
+India,0.40,viraemic,2020,Polaris2022
+Indonesia,0.43,viraemic,2024,WHO_GHR2026
+Iran,0.30,anti-HCV,2016,IranMA2018
+Iraq,0.35,viraemic,2024,WHO_GHR2026
+Ireland,0.21,viraemic,2019,Thomadakis2023
+Italy,0.96,viraemic,2019,Thomadakis2023
+Ivory Coast,0.76,viraemic,2024,WHO_GHR2026
+Japan,0.18,viraemic,2024,WHO_GHR2026
+Kazakhstan,1.65,viraemic,2024,WHO_GHR2026
+Kyrgyzstan,0.05,viraemic,2024,WHO_GHR2026
+Laos,0.52,viraemic,2024,WHO_GHR2026
+Latvia,0.77,viraemic,2019,Thomadakis2023
+Lesotho,1.41,viraemic,2024,WHO_GHR2026
+Liberia,0.76,viraemic,2024,WHO_GHR2026
+Lithuania,1.01,viraemic,2019,Thomadakis2023
+Luxembourg,0.25,viraemic,2019,Thomadakis2023
+Madagascar,0.35,viraemic,2024,WHO_GHR2026
+Malawi,0.63,viraemic,2024,WHO_GHR2026
+Malaysia,0.15,viraemic,2020,WHO_GHR2026
+Maldives,0.44,viraemic,2024,WHO_GHR2026
+Mali,0.76,viraemic,2024,WHO_GHR2026
+Malta,0.27,viraemic,2019,Thomadakis2023
+Mexico,0.51,viraemic,2024,WHO_GHR2026
+Moldova,1.93,viraemic,2024,WHO_GHR2026
+Mongolia,11.00,viraemic,2021,WHO_GHR2026
+Montenegro,0.40,viraemic,2024,WHO_GHR2026
+Morocco,0.32,viraemic,2024,WHO_GHR2026
+Mozambique,0.66,viraemic,2024,WHO_GHR2026
+Myanmar,0.52,viraemic,2024,WHO_GHR2026
+Nepal,0.39,viraemic,2024,WHO_GHR2026
+Netherlands,0.04,viraemic,2019,Thomadakis2023
+New Zealand,0.33,viraemic,2024,WHO_GHR2026
+Niger,0.76,viraemic,2024,WHO_GHR2026
+Nigeria,0.61,viraemic,2024,WHO_GHR2026
+North Korea,0.33,viraemic,2024,WHO_GHR2026
+Norway,0.22,viraemic,2019,Thomadakis2023
+Oman,0.30,viraemic,2024,WHO_GHR2026
+Pakistan,3.60,viraemic,2024,WHO_GHR2026
+Palestine,0.52,viraemic,2024,WHO_GHR2026
+Papua New Guinea,1.13,viraemic,2024,WHO_GHR2026
+Paraguay,0.37,viraemic,2024,WHO_GHR2026
+Peru,9.92,viraemic,2024,WHO_GHR2026
+Philippines,0.37,viraemic,2024,WHO_GHR2026
+Poland,0.36,viraemic,2019,Thomadakis2023
+Portugal,0.50,viraemic,2019,Thomadakis2023
+Qatar,1.36,viraemic,2024,WHO_GHR2026
+Romania,2.26,viraemic,2019,Thomadakis2023
+Russia,0.46,viraemic,2024,WHO_GHR2026
+Rwanda,0.44,viraemic,2024,WHO_GHR2026
+Saudi Arabia,0.04,viraemic,2024,WHO_GHR2026
+Senegal,0.76,viraemic,2024,WHO_GHR2026
+Sierra Leone,2.14,viraemic,2024,WHO_GHR2026
+Singapore,0.52,viraemic,2024,WHO_GHR2026
+Slovakia,0.62,viraemic,2019,Thomadakis2023
+Slovenia,0.07,viraemic,2019,Thomadakis2023
+Somalia,0.36,viraemic,2024,WHO_GHR2026
+South Africa,1.41,viraemic,2024,WHO_GHR2026
+South Korea,0.10,viraemic,2020,WHO_GHR2026
+Spain,0.15,viraemic,2019,Thomadakis2023
+Sri Lanka,0.44,viraemic,2024,WHO_GHR2026
+Suriname,0.37,viraemic,2024,WHO_GHR2026
+Swaziland,1.41,viraemic,2024,WHO_GHR2026
+Sweden,0.16,viraemic,2019,Thomadakis2023
+Switzerland,0.34,viraemic,2024,WHO_GHR2026
+Tanzania,0.11,viraemic,2024,WHO_GHR2026
+Thailand,0.32,viraemic,2024,WHO_GHR2026
+Timor-Leste,0.52,viraemic,2024,WHO_GHR2026
+Togo,0.76,viraemic,2024,WHO_GHR2026
+UK,0.12,viraemic,2023,WHO_GHR2026
+USA,1.00,viraemic,2020,NHANES2024
+Ukraine,3.30,anti-HCV,2021,EuroSurvUA2025
+Uruguay,0.50,viraemic,2024,WHO_GHR2026
+Vanuatu,1.07,viraemic,2024,WHO_GHR2026
+Vietnam,0.91,viraemic,2024,WHO_GHR2026
+Zimbabwe,0.63,viraemic,2024,WHO_GHR2026

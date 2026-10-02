@@ -1,0 +1,7 @@
+trajectory,timepoint,x,frequency,note
+"selected, persisting",before treatment,0,6,schematic
+"selected, persisting",at virological failure,1,92,schematic
+"drug-relevant, costly",before treatment,0,42,schematic
+"drug-relevant, costly",at virological failure,1,3,schematic
+lineage polymorphism,before treatment,0,95,schematic
+lineage polymorphism,at virological failure,1,97,schematic

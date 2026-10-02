@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the paper below."
+title: "HCV reference-residue analysis: data and code"
+authors:
+  - family-names: Le
+    given-names: Duong Hoang Huy
+    affiliation: "Center of Excellence in Clinical Virology, Chulalongkorn University"
+  - family-names: Puenpa
+    given-names: Jiratchaya
+  - family-names: Nilyanimit
+    given-names: Pornjarim
+  - family-names: Honsawek
+    given-names: Sittisak
+  - family-names: Poovorawan
+    given-names: Yong
+version: 1.0.0
+date-released: 2026-10-02
+license: CC-BY-4.0
+repository-code: "https://github.com/DHHuyLe-3105/hcv-reference-residue"
+preferred-citation:
+  type: article
+  title: "Hepatitis C virus resistance a decade after direct-acting antivirals: when the resistance residue is the wild type"
+  authors:
+    - family-names: Le
+      given-names: Duong Hoang Huy
+    - family-names: Puenpa
+      given-names: Jiratchaya
+    - family-names: Nilyanimit
+      given-names: Pornjarim
+    - family-names: Honsawek
+      given-names: Sittisak
+    - family-names: Poovorawan
+      given-names: Yong
+  year: 2026

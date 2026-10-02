@@ -1,0 +1,13 @@
+protein,domain,start_aa,end_aa,protein_len
+NS3/4A,protease,1,180,631
+NS3/4A,helicase / NTPase,181,631,631
+NS5A,AH,1,33,448
+NS5A,domain I,34,213,448
+NS5A,LCS I,214,249,448
+NS5A,domain II,250,342,448
+NS5A,LCS II,343,356,448
+NS5A,domain III,357,448,448
+NS5B,fingers,1,180,591
+NS5B,palm,181,370,591
+NS5B,thumb,371,560,591
+NS5B,TM,561,591,591

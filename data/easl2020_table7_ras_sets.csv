@@ -1,0 +1,55 @@
+panel,position,genotype,EASL_2020_residues
+2A (pooled union),NS5A-24,all genotypes,AEFHKQRST
+2A (pooled union),NS5A-28,all genotypes,ACGIKLMSTV
+2A (pooled union),NS5A-30,all genotypes,CDEFGHKLNPQRSTY
+2A (pooled union),NS5A-31,all genotypes,FIMPVW
+2A (pooled union),NS5A-32,all genotypes,AFLQRS
+2A (pooled union),NS5A-38,all genotypes,F
+2A (pooled union),NS5A-58,all genotypes,ACDGHLNPRST
+2A (pooled union),NS5A-62,all genotypes,DL
+2A (pooled union),NS5A-92,all genotypes,EKRSTVW
+2A (pooled union),NS5A-93,all genotypes,ACFHLNRSTW
+2A (pooled union),NS5B-159,all genotypes,F
+2A (pooled union),NS5B-282,all genotypes,CGRT
+2A (pooled union),NS5B-316,all genotypes,FHNRWY
+2A (pooled union),NS5B-321,all genotypes,AI
+2B (genotype-specific),NS5A-30,GT1,CDEGHKLNPQRSTY
+2B (genotype-specific),NS5A-30,GT2,HS
+2B (genotype-specific),NS5A-30,GT3,DEKS
+2B (genotype-specific),NS5A-30,GT4,FGHRS
+2B (genotype-specific),NS5A-30,GT5,H
+2B (genotype-specific),NS5A-30,GT6,EHNS
+2B (genotype-specific),NS5A-30,GT7,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-30,GT8,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-31,GT1,FIMPVW
+2B (genotype-specific),NS5A-31,GT2,IMV
+2B (genotype-specific),NS5A-31,GT3,FIMPV
+2B (genotype-specific),NS5A-31,GT4,IV
+2B (genotype-specific),NS5A-31,GT5,FIV
+2B (genotype-specific),NS5A-31,GT6,IMV
+2B (genotype-specific),NS5A-31,GT7,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-31,GT8,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-62,GT1,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-62,GT2,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-62,GT3,D
+2B (genotype-specific),NS5A-62,GT4,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-62,GT5,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-62,GT6,L
+2B (genotype-specific),NS5A-62,GT7,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-62,GT8,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-93,GT1,CFHLNRSTW
+2B (genotype-specific),NS5A-93,GT2,FHN
+2B (genotype-specific),NS5A-93,GT3,HNS
+2B (genotype-specific),NS5A-93,GT4,CHNRSW
+2B (genotype-specific),NS5A-93,GT5,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-93,GT6,AHNS
+2B (genotype-specific),NS5A-93,GT7,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5A-93,GT8,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5B-282,GT1,GRT
+2B (genotype-specific),NS5B-282,GT2,GRT
+2B (genotype-specific),NS5B-282,GT3,GRT
+2B (genotype-specific),NS5B-282,GT4,CGRT
+2B (genotype-specific),NS5B-282,GT5,GRT
+2B (genotype-specific),NS5B-282,GT6,GRT
+2B (genotype-specific),NS5B-282,GT7,NOT SCORED IN EASL 2020
+2B (genotype-specific),NS5B-282,GT8,NOT SCORED IN EASL 2020

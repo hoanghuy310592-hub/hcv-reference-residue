@@ -1,0 +1,5 @@
+track_order,track_label,protein,from_aa,to_aa,zoom
+1,NS3/4A,NS3/4A,1,631,0
+2,NS5A,NS5A,1,448,0
+3,NS5A domain I,NS5A,1,213,1
+4,NS5B,NS5B,1,591,0
